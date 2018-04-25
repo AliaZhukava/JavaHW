@@ -12,5 +12,6 @@ public class FirstExample {
 
         System.out.println("some code");
         System.out.println("444");
+        System.out.println("third branch");
     }
 }
